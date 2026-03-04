@@ -3,6 +3,7 @@
 Welcome to my GitHub profile!
 
 I'm Szabolcs Kerülő, a 4th-semester BSc **Computer Science** student at **Óbuda University** with a strong focus on **full-stack web development**. 
+
 I love building personal projects with clean code and am constantly driven to *explore* and *learn* new technologies.
 
 ---
@@ -77,8 +78,6 @@ I love building personal projects with clean code and am constantly driven to *e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
-
- - .NET Core, NuGet, Node.js, npm, Express, Electron, Discord.js, Mocha, Babel, ESLint, jQuery, Sass, Selenium, Tailwind CSS, HTML5, CSS3, Bootstrap, MySQL, MongoDB, Arduino, Insomnia, JetBrains IDEs, Visual Studio, Visual Studio Code
 
 ---
 
