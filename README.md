@@ -2,11 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m Szabolcs Kerülő, **Computer Science** student at **Óbuda University**, currently in my third semester. A passionate programmer who spends much of his free time building personal projects to sharpen his skills.
-
-My main focus is web development, where I enjoy working on both the frontend and backend.
-I take pride in creating **clean**, **well-structured solutions** and value quality in everything I do. 
-Continuously driven by a passion for learning new technologies.
+I'm Szabolcs Kerülő, a 4th-semester BSc Computer Science student at Óbuda University with a strong focus on full-stack web development. I love building personal projects with clean code and am constantly driven to explore and learn new technologies.
 
 ---
 
@@ -84,12 +80,5 @@ Continuously driven by a passion for learning new technologies.
  - .NET Core, NuGet, Node.js, npm, Express, Electron, Discord.js, Mocha, Babel, ESLint, jQuery, Sass, Selenium, Tailwind CSS, HTML5, CSS3, Bootstrap, MySQL, MongoDB, Arduino, Insomnia, JetBrains IDEs, Visual Studio, Visual Studio Code
 
 ---
-
-### 👩‍💻  Additional Information About Me
-
-- 🎓 **Education**: 2nd year, Computer Science at Óbudai University.
-- 💻 **Programming Languages**: C#, JavaScript, Java, Python, PHP.
-- 💡 **Ongoing Studies**: Working on academic projects which include important algorithms and data structures.
-- 🎯 **Future Plans**: Continuing to grow as a developer by mastering full-stack development and gaining hands-on experience with the associated technologies.
 
 
