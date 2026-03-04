@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile!
 
-I'm Szabolcs Kerülő, a 4th-semester BSc Computer Science student at Óbuda University with a strong focus on full-stack web development. I love building personal projects with clean code and am constantly driven to explore and learn new technologies.
+I'm Szabolcs Kerülő, a 4th-semester BSc **Computer Science** student at **Óbuda University** with a strong focus on **full-stack web development**. 
+I love building personal projects with clean code and am constantly driven to *explore* and *learn* new technologies.
 
 ---
 
