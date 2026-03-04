@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile!
 
-I'm Szabolcs Kerülő, a 4th-semester BSc **Computer Science** student at **Óbuda University** with a strong focus on **full-stack web development**. 
+I'm Szabolcs Kerülő, a 4th-semester BSc **Computer Science** student at **Óbuda University** with a strong focus on **full-stack web development**.
 
-I love building personal projects with clean code and am constantly driven to *explore* and *learn* new technologies.
+I love building personal projects with clean code and am constantly driven to _explore_ and _learn_ new technologies.
 
 ---
 
@@ -15,7 +15,16 @@ I love building personal projects with clean code and am constantly driven to *e
 
 ---
 
-### 📝 Languages 
+| 📌 Project                                                     | 📝 Description                                                                                      | 🛠 Technologies                                    |
+| :------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
+| **[Thoughts.io](https://github.com/Fall1nglight/Thoughts.io)** | Secure full-stack app featuring JWT auth, role management, and public/private content CRUD.         | `.NET Core`, `Vue.js`, `JWT`, `MSSQL`, `Bootstrap` |
+| **[Simple auth](https://github.com/Fall1nglight/simple-auth)** | Full-stack CRUD app demonstrating robust JWT session management, token refresh, and RBAC.           | `Node.js`, `Express`, `Vue.js 3`, `MongoDB`, `JWT` |
+| **[Codewars](https://github.com/Fall1nglight/Codewars)**       | C# algorithmic solutions focusing on problem-solving, code optimization, and clean code principles. | `C#`                                               |
+
+---
+
+### 📝 Languages
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -29,6 +38,7 @@ I love building personal projects with clean code and am constantly driven to *e
 </div>
 
 ### ⚙️ Tools and Technologies
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
@@ -80,5 +90,3 @@ I love building personal projects with clean code and am constantly driven to *e
 </p>
 
 ---
-
-
