@@ -17,9 +17,9 @@ I love building personal projects with clean code and am constantly driven to _e
 
 | 📌 Project                                                     | 📝 Description                                                                                      | 🛠 Technologies                                    |
 | :------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
-| **[Thoughts.io](https://github.com/Fall1nglight/Thoughts.io)** | Secure full-stack app featuring JWT auth, role management, and public/private content CRUD.         | `.NET Core`, `Vue.js`, `JWT`, `MSSQL`, `Bootstrap` |
-| **[Simple auth](https://github.com/Fall1nglight/simple-auth)** | Full-stack CRUD app demonstrating robust JWT session management, token refresh, and RBAC.           | `Node.js`, `Express`, `Vue.js 3`, `MongoDB`, `JWT` |
-| **[Codewars](https://github.com/Fall1nglight/Codewars)**       | C# algorithmic solutions focusing on problem-solving, code optimization, and clean code principles. | `C#`                                               |
+| **[Thoughts.io](https://github.com/Fall1nglight/Thoughts.io)** | **Full-stack** app featuring JWT auth, role management, implementing complex CRUD.         | `.NET Core`, `Vue.js`, `JWT`, `MSSQL`, `Bootstrap` |
+| **[Simple auth](https://github.com/Fall1nglight/simple-auth)** | **Full-stack** CRUD app demonstrating robust JWT session management, token refresh, and RBAC.           | `Node.js`, `Express`, `Vue.js`, `MongoDB`, `JWT` |
+| **[Codewars](https://github.com/Fall1nglight/Codewars)**       | **C# algorithmic solutions** focusing on problem-solving, code optimization, and clean code principles. | `C#`                                               |
 
 ---
 
