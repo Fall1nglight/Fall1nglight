@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 
 I build web applications with C#/.NET and Vue, with a particular interest in backend development.
 
-During a two month internship at Aximmetry Technologies I worked on WinForms UIs of virtual production software using C#/.NET.
+During a two month internship at [Aximmetry Technologies](https://aximmetry.com) I worked on WinForms UIs of virtual production software using C#/.NET.
 
-My main project is Threads.clone, a full-stack social application with public and private profiles, follow requests, blocking, and notifications. Furthermore, a Github Actions powered CI/CD pipeline handles automated unit, integration tests and deploys to Azure.
+My main project is [Threads.clone](https://github.com/Fall1nglight/Threads.clone), a full-stack social application with public and private profiles, follow requests, blocking, and notifications. Furthermore, a Github Actions powered CI/CD pipeline handles automated unit, integration tests and deploys to Azure.
 
 Currently, I’m pursuing a BSc Computer Science degree at Óbuda University, where my thesis focuses on analysing table tennis techniques using computer vision.
 
