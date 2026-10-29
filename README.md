@@ -23,11 +23,28 @@ I’m looking for a software development internship or part-time job with a focu
 
 ## Projects
 
-| Project | Technologies |
-| :--- | :--- |
-| **[Threads.Clone](https://github.com/Fall1nglight/Threads.clone)** | `C#/.NET`, `Vue`, `TypeScript`, `PostgreSQL` |
-| **[Sárisápi football club's website](https://github.com/Fall1nglight/sarisap-bse-football-club)** | `Nuxt`, `Vue`, `TypeScript`, `Netlify` |
-| **[uni-dsa-course](https://github.com/Fall1nglight/uni-dsa-course)** | `C#/.NET`, `NUnit` |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Name</th>
+      <th align="center">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/Fall1nglight/Threads.clone">Threads.Clone</a></strong></td>
+      <td align="center"><code>C#/.NET</code>, <code>Vue</code>, <code>TypeScript</code>, <code>PostgreSQL</code></td>
+    </tr>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/Fall1nglight/sarisap-bse-football-club">Sárisápi football club's website</a></strong></td>
+      <td align="center"><code>Nuxt</code>, <code>Vue</code>, <code>TypeScript</code>, <code>Netlify</code></td>
+    </tr>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/Fall1nglight/uni-dsa-course">uni-dsa-course</a></strong></td>
+      <td align="center"><code>C#/.NET</code>, <code>NUnit</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
