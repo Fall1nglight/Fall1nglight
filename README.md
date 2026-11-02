@@ -6,8 +6,6 @@ I build web applications with C#/.NET and Vue, with a particular interest in bac
 
 During a two month internship at [Aximmetry Technologies](https://aximmetry.com) I worked on WinForms UIs of virtual production software which is leading the internation market in its field. I've gained hands-on experience while solving complex tasks and have had the opportunity to take advice from senior developers specialized in C++ and C#.
 
-I have worked with senior developers specialized in C++ and C#, which helped me gain hands-on experience. 
-
 My main project is [Threads.clone](https://github.com/Fall1nglight/Threads.clone), a full-stack social application with public and private profiles, follow requests, blocking, and notifications. Furthermore, a Github Actions powered CI/CD pipeline handles automated unit- and integration tests, and deploys to Azure.
 
 Currently, I’m pursuing a BSc Computer Science degree at Óbuda University, where my thesis focuses on analysing table tennis techniques using computer vision (MediaPipe).
