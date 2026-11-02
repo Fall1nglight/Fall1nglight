@@ -40,6 +40,10 @@ I’m looking for a software development internship or part-time job with a focu
       <td align="center"><code>Nuxt</code>, <code>Vue</code>, <code>TypeScript</code>, <code>Netlify</code></td>
     </tr>
     <tr>
+      <td align="center"><strong><a href="https://github.com/Fall1nglight/PhotoDrive">PhotoDrive</a></strong></td>
+      <td align="center"><code>.NET MAUI</code>, <code>SQLite</code></td>
+    </tr>
+    <tr>
       <td align="center"><strong><a href="https://github.com/Fall1nglight/uni-dsa-course">uni-dsa-course</a></strong></td>
       <td align="center"><code>C#/.NET</code>, <code>NUnit</code></td>
     </tr>
