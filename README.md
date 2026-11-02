@@ -55,7 +55,7 @@ I’m looking for a software development internship or part-time job in any fiel
 ## Gallery
 
 ![Threads.Clone home](./assets/gallery/threads/home_page.png)
-![PhotoDrive home](./assets/gallery/photodrive/home_pagepng)
+![PhotoDrive home](./assets/gallery/photodrive/home_page.png)
 ![PhotoDrive details](./assets/gallery/photodrive/details_page.png)
 ![Sárisápi football club home](./assets/gallery/sarisap/homepage.png)
 ![Sárisápi football club news](./assets/gallery/sarisap/homepage_news.png)
