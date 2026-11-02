@@ -4,13 +4,15 @@ Welcome to my GitHub profile!
 
 I build web applications with C#/.NET and Vue, with a particular interest in backend development.
 
-During a two month internship at [Aximmetry Technologies](https://aximmetry.com) I worked on WinForms UIs of virtual production software using C#/.NET.
+During a two month internship at [Aximmetry Technologies](https://aximmetry.com) I worked on WinForms UIs of virtual production software which is leading the internation market in its field. I've gained hands-on experience while solving complex tasks and have had the opportunity to take advice from senior developers specialized in C++ and C#.
 
-My main project is [Threads.clone](https://github.com/Fall1nglight/Threads.clone), a full-stack social application with public and private profiles, follow requests, blocking, and notifications. Furthermore, a Github Actions powered CI/CD pipeline handles automated unit, integration tests and deploys to Azure.
+I have worked with senior developers specialized in C++ and C#, which helped me gain hands-on experience. 
 
-Currently, I’m pursuing a BSc Computer Science degree at Óbuda University, where my thesis focuses on analysing table tennis techniques using computer vision.
+My main project is [Threads.clone](https://github.com/Fall1nglight/Threads.clone), a full-stack social application with public and private profiles, follow requests, blocking, and notifications. Furthermore, a Github Actions powered CI/CD pipeline handles automated unit- and integration tests, and deploys to Azure.
 
-I’m looking for a software development internship or part-time job with a focus on backend or full-stack development.
+Currently, I’m pursuing a BSc Computer Science degree at Óbuda University, where my thesis focuses on analysing table tennis techniques using computer vision (MediaPipe).
+
+I’m looking for a software development internship or part-time job in any field, but my main interest lies in full-stack development especially the backend.
 
 ---
 
@@ -55,8 +57,8 @@ I’m looking for a software development internship or part-time job with a focu
 ## Gallery
 
 ![Threads.Clone home](./assets/gallery/threads/home_page.png)
-![Threads.Clone post details](./assets/gallery/threads/post_details_page.png)
-![Threads.Clone profile settings](./assets/gallery/threads/profile_settings_page.png)
+![PhotoDrive home](./assets/gallery/photodrive/home_pagepng)
+![PhotoDrive details](./assets/gallery/photodrive/details_page.png)
 ![Sárisápi football club home](./assets/gallery/sarisap/homepage.png)
 ![Sárisápi football club news](./assets/gallery/sarisap/homepage_news.png)
 ![Sárisápi football club calendar](./assets/gallery/sarisap/calendar.png)
